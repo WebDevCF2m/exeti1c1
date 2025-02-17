@@ -8,10 +8,11 @@
 </head>
 <body>
     <nav>
-
+        <?php include "inc/menu.php"; ?>
     </nav>
+    <h1>Accueil</h1>
     <footer>
-
+        <?php include "inc/footer.php"; ?>
     </footer>
 </body>
 </html>

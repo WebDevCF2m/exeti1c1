@@ -1,0 +1,9 @@
+body{
+    margin: auto;
+}
+nav{
+    display: flex;
+}
+h1{
+    color: brown;
+}
