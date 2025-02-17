@@ -11,6 +11,7 @@
         <?php include "inc/menu.php"; ?>
     </nav>
     <h1>Accueil</h1>
+    <p>du texte</p>
     <footer>
         <?php include "inc/footer.php"; ?>
     </footer>
