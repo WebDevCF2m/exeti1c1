@@ -11,6 +11,8 @@ if(isset($_GET['p'])){
         case "img":
             include "../pages/imagesView.php";
             break;
+        default:
+            include "../pages/error404.php";
     }
 }else{
     include "../pages/accueilView.php";
